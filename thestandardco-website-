@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Standard | Personal Training & Online Coaching</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="logo">The Standard</h1>
+    <p class="tagline">Personal Training · Online Coaching</p>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Raise Your Standard.</h2>
+      <p>
+        High-energy, no-excuses coaching to help you build strength, confidence,
+        and a lifestyle that actually lasts.
+      </p>
+      <a href="#contact" class="btn">Book a Consultation
